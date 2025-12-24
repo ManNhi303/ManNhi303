@@ -24,8 +24,6 @@ A Data Science graduate with a passion for Data Analytics, focused on transformi
 
 <p align="left">
 <a href="https://www.linkedin.com/in/nhidoan303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhidoan303" height="30" width="40" /></a>
-<a href="mailto:doannhi303@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="doannhi303" height="30" width="40" /></a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
